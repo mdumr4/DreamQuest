@@ -1,0 +1,71 @@
+level_id,level_name,category,subcategory,description
+L001,High School (10+2),Education,Secondary,Higher secondary education certificate
+L002,Bachelor of Technology (B.Tech),Education,Engineering,Undergraduate engineering degree
+L003,Master of Technology (M.Tech),Education,Engineering,Postgraduate engineering degree
+L004,Bachelor of Computer Applications (BCA),Education,Computer Science,Undergraduate degree in computer applications
+L005,Master of Computer Applications (MCA),Education,Computer Science,Postgraduate degree in computer applications
+L006,Bachelor of Business Administration (BBA),Education,Business,Undergraduate business administration degree
+L007,Master of Business Administration (MBA),Education,Business,Postgraduate business administration degree
+L008,Bachelor of Medicine (MBBS),Education,Medical,Medical degree for practicing medicine
+L009,Bachelor of Pharmacy (B.Pharma),Education,Pharmacy,Undergraduate pharmacy degree
+L010,Bachelor of Laws (LLB),Education,Law,Undergraduate law degree
+L011,Chartered Accountant (CA),Certification,Finance,Professional certification in accounting and finance
+L012,Company Secretary (CS),Certification,Corporate Governance,Professional certification in corporate law and governance
+L013,Cost and Management Accountant (CMA),Certification,Finance,Professional certification in cost and management accounting
+L014,PhD,Education,Doctoral,Doctoral degree in specialized field
+L015,Diploma in Engineering,Education,Technical,Technical diploma in engineering field
+L016,0-2 Years Experience,Experience,Entry Level,Entry-level professional with 0-2 years of experience
+L017,2-5 Years Experience,Experience,Junior,Junior professional with 2-5 years of experience
+L018,5-8 Years Experience,Experience,Mid-Level,Mid-level professional with 5-8 years of experience
+L019,8-12 Years Experience,Experience,Senior,Senior professional with 8-12 years of experience
+L020,12+ Years Experience,Experience,Expert,Expert professional with 12+ years of experience
+L021,AWS Certified Solutions Architect,Certification,Cloud,Amazon Web Services cloud architecture certification
+L022,Microsoft Azure Certified,Certification,Cloud,Microsoft Azure cloud platform certification
+L023,Google Cloud Professional,Certification,Cloud,Google Cloud Platform professional certification
+L024,PMP Certified,Certification,Project Management,Project Management Professional certification
+L025,Certified Scrum Master,Certification,Agile,Scrum Master certification for agile project management
+L026,CISSP Certified,Certification,Security,Certified Information Systems Security Professional
+L027,Six Sigma Black Belt,Certification,Quality,Advanced Six Sigma quality management certification
+L028,CFA Chartered,Certification,Finance,Chartered Financial Analyst certification
+L029,Digital Marketing Certified,Certification,Marketing,Professional digital marketing certification
+L030,ITIL Certified,Certification,IT Service Management,IT Infrastructure Library certification
+L031,Bachelor of Science (BSc),Education,Science,Undergraduate degree in science subjects
+L032,Master of Science (MSc),Education,Science,Postgraduate degree in science subjects
+L033,Bachelor of Commerce (BCom),Education,Commerce,Undergraduate degree in commerce
+L034,Master of Commerce (MCom),Education,Commerce,Postgraduate degree in commerce
+L035,Bachelor of Arts (BA),Education,Arts,Undergraduate degree in arts subjects
+L036,Master of Arts (MA),Education,Arts,Postgraduate degree in arts subjects
+L037,Bachelor of Engineering (BE),Education,Engineering,Undergraduate engineering degree
+L038,Master of Engineering (ME),Education,Engineering,Postgraduate engineering degree
+L039,Post Graduate Diploma in Management (PGDM),Education,Management,Postgraduate management diploma
+L040,Bachelor of Dental Surgery (BDS),Education,Medical,Undergraduate dental degree
+L041,Master of Dental Surgery (MDS),Education,Medical,Postgraduate dental degree
+L042,Bachelor of Physiotherapy (BPT),Education,Allied Health,Undergraduate physiotherapy degree
+L043,Master of Physiotherapy (MPT),Education,Allied Health,Postgraduate physiotherapy degree
+L044,Bachelor of Architecture (BArch),Education,Architecture,Undergraduate architecture degree
+L045,Master of Architecture (MArch),Education,Architecture,Postgraduate architecture degree
+L046,Oracle Certified Professional,Certification,Database,Oracle database administration certification
+L047,Microsoft Certified Solutions Expert,Certification,Microsoft Technologies,Advanced Microsoft technology certification
+L048,Salesforce Certified Administrator,Certification,CRM,Salesforce platform administration certification
+L049,Tableau Desktop Certified Professional,Certification,Data Visualization,Advanced Tableau data visualization certification
+L050,Google Analytics Certified,Certification,Digital Marketing,Google Analytics platform certification
+L051,HubSpot Content Marketing Certified,Certification,Marketing,Content marketing strategy certification
+L052,Red Hat Certified Engineer,Certification,Linux,Advanced Linux system administration certification
+L053,Certified Kubernetes Administrator,Certification,Container Orchestration,Kubernetes platform administration certification
+L054,Certified Ethical Hacker,Certification,Cybersecurity,Ethical hacking and penetration testing certification
+L055,CompTIA Security+,Certification,IT Security,Foundational cybersecurity certification
+L056,Certified Data Scientist,Certification,Data Science,Professional data science certification
+L057,Lean Six Sigma Green Belt,Certification,Process Improvement,Process improvement methodology certification
+L058,PRINCE2 Foundation,Certification,Project Management,PRINCE2 project management methodology certification
+L059,Certified ScrumMaster,Certification,Agile,Scrum framework certification for project management
+L060,Google Ads Certified,Certification,Digital Advertising,Google advertising platform certification
+L061,Team Lead Experience,Experience,Leadership,Experience leading small teams of 3-7 people
+L062,Department Manager Experience,Experience,Management,Experience managing departments of 10-25 people
+L063,Cross-functional Experience,Experience,Collaboration,Experience working across multiple departments
+L064,International Experience,Experience,Global,Experience working in international environments
+L065,Startup Experience,Experience,Entrepreneurial,Experience working in startup environments
+L066,Enterprise Experience,Experience,Corporate,Experience in large enterprise organizations
+L067,Remote Work Experience,Experience,Remote,Experience working effectively in remote settings
+L068,Client-facing Experience,Experience,Customer Relations,Experience interacting directly with clients
+L069,Consulting Experience,Experience,Advisory,Experience providing professional consulting services
+L070,Training and Development Experience,Experience,Education,Experience in training and mentoring others

@@ -1,0 +1,52 @@
+course,skill,relationship_type
+Bachelor of Technology - Computer Science,Python Programming,TEACHES
+Bachelor of Technology - Computer Science,Java Programming,TEACHES
+Bachelor of Technology - Computer Science,SQL,TEACHES
+Bachelor of Technology - Computer Science,Data Analysis,TEACHES
+Bachelor of Technology - Computer Science,Machine Learning,TEACHES
+Master of Computer Applications,Java Programming,TEACHES
+Master of Computer Applications,SQL,TEACHES
+Master of Computer Applications,Software Development,TEACHES
+Master of Computer Applications,System Analysis,TEACHES
+Data Science Certification,Python Programming,TEACHES
+Data Science Certification,Machine Learning,TEACHES
+Data Science Certification,Statistical Analysis,TEACHES
+Data Science Certification,Data Analysis,TEACHES
+AWS Solutions Architect Certification,Cloud Computing,TEACHES
+AWS Solutions Architect Certification,System Architecture,TEACHES
+Bachelor of Medicine and Bachelor of Surgery (MBBS),Medical Diagnosis,TEACHES
+Bachelor of Medicine and Bachelor of Surgery (MBBS),Patient Care,TEACHES
+Bachelor of Medicine and Bachelor of Surgery (MBBS),Medical Documentation,TEACHES
+Bachelor of Medicine and Bachelor of Surgery (MBBS),Healthcare Ethics,TEACHES
+Bachelor of Pharmacy (B.Pharm),Pharmacology,TEACHES
+Bachelor of Pharmacy (B.Pharm),Patient Care,TEACHES
+Bachelor of Pharmacy (B.Pharm),Medical Documentation,TEACHES
+Bachelor of Science in Nursing (B.Sc Nursing),Patient Care,TEACHES
+Bachelor of Science in Nursing (B.Sc Nursing),Medical Equipment Operation,TEACHES
+Bachelor of Science in Nursing (B.Sc Nursing),Healthcare Ethics,TEACHES
+Master of Business Administration - Finance,Financial Analysis,TEACHES
+Master of Business Administration - Finance,Investment Management,TEACHES
+Master of Business Administration - Finance,Strategic Planning,TEACHES
+Master of Business Administration - Finance,Leadership,TEACHES
+Chartered Accountancy,Accounting Principles,TEACHES
+Chartered Accountancy,Financial Analysis,TEACHES
+Chartered Accountancy,Taxation Knowledge,TEACHES
+Chartered Accountancy,Regulatory Compliance,TEACHES
+Mathematics,Statistical Analysis,TEACHES
+Mathematics,Critical Thinking,TEACHES
+Mathematics,Analytical Reasoning,TEACHES
+Physics,Scientific Analysis,TEACHES
+Physics,Critical Thinking,TEACHES
+Physics,Technical Analysis,TEACHES
+Chemistry,Laboratory Analysis,TEACHES
+Chemistry,Scientific Method,TEACHES
+Chemistry,Technical Analysis,TEACHES
+Biology,Scientific Analysis,TEACHES
+Biology,Research Methods,TEACHES
+Biology,Laboratory Analysis,TEACHES
+English Literature,Communication Skills,TEACHES
+English Literature,Creative Writing,TEACHES
+English Literature,Critical Thinking,TEACHES
+Computer Science,Programming Fundamentals,TEACHES
+Computer Science,Logical Thinking,TEACHES
+Computer Science,Problem Solving,TEACHES

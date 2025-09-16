@@ -1,0 +1,121 @@
+name,description,course_id
+Bachelor of Technology - Computer Science,"Comprehensive undergraduate program covering programming fundamentals, data structures, algorithms, software engineering, and computer systems architecture.",1
+Master of Computer Applications,"Postgraduate program focusing on advanced programming concepts, software development methodologies, database management, and emerging technologies.",2
+Bachelor of Computer Applications,"Undergraduate degree emphasizing practical computer applications, programming languages, web development, and software project management.",3
+MTech in Artificial Intelligence,"Specialized postgraduate program in AI technologies, machine learning algorithms, neural networks, natural language processing, and computer vision.",4
+Data Science Certification,"Professional certification covering statistical analysis, machine learning, data visualization, big data technologies, and predictive modeling techniques.",5
+AWS Solutions Architect Certification,Industry-recognized certification for designing and deploying scalable systems on Amazon Web Services cloud platform infrastructure.,6
+Google Cloud Professional Certification,"Professional certification demonstrating expertise in Google Cloud technologies, including compute, storage, networking, and machine learning services.",7
+Cybersecurity Certification,"Comprehensive program covering network security, ethical hacking, incident response, risk assessment, and information security management.",8
+Full Stack Web Development Course,"Intensive program covering frontend technologies, backend frameworks, databases, version control, and complete web application development.",9
+Mobile App Development Course,Specialized training in native and cross-platform mobile application development using modern frameworks and development tools.,10
+Bachelor of Medicine and Bachelor of Surgery (MBBS),"Comprehensive medical degree covering human anatomy, physiology, pathology, pharmacology, and clinical medicine with extensive practical training.",11
+Bachelor of Pharmacy (B.Pharm),"Undergraduate program focusing on pharmaceutical sciences, drug formulation, pharmacology, medicinal chemistry, and pharmacy practice.",12
+Bachelor of Science in Nursing (B.Sc Nursing),"Professional degree program covering nursing fundamentals, patient care, medical-surgical nursing, community health, and healthcare management.",13
+Bachelor of Physiotherapy (BPT),"Specialized program in rehabilitation sciences covering anatomy, biomechanics, therapeutic exercises, and physical therapy techniques.",14
+Master of Surgery (MS),"Postgraduate medical degree providing advanced surgical training in various specialties including general surgery, orthopedics, and ophthalmology.",15
+Doctor of Medicine (MD),"Postgraduate medical degree offering specialization in internal medicine, pediatrics, psychiatry, and other medical disciplines.",16
+Bachelor of Ayurveda Medicine and Surgery (BAMS),Traditional medicine degree combining ancient Ayurvedic principles with modern medical knowledge for holistic healthcare practice.,17
+Bachelor of Homeopathic Medicine and Surgery (BHMS),"Alternative medicine degree focusing on homeopathic principles, case taking, repertory, and natural healing methods.",18
+Master of Public Health (MPH),"Multidisciplinary program covering epidemiology, biostatistics, health policy, environmental health, and community health management.",19
+Clinical Research Certification,"Professional program covering clinical trial protocols, regulatory affairs, pharmacovigilance, and good clinical practice standards.",20
+Master of Business Administration - Finance,"Comprehensive postgraduate program covering financial management, investment analysis, corporate finance, international finance, and strategic financial planning.",21
+Chartered Accountancy,"Professional qualification in accounting, auditing, taxation, and financial management governed by Institute of Chartered Accountants of India.",22
+Bachelor of Commerce,"Undergraduate degree covering accounting principles, business economics, corporate law, taxation, and financial management fundamentals.",23
+Certified Financial Planner (CFP),"Professional certification focusing on comprehensive financial planning, investment strategies, retirement planning, and wealth management techniques.",24
+Company Secretary (CS),"Professional course covering corporate governance, company law, securities regulation, and compliance management for corporate entities.",25
+Cost and Management Accountant (CMA),"Professional qualification specializing in cost accounting, management accounting, financial planning, and strategic cost management.",26
+Banking and Insurance,"Specialized program covering banking operations, financial services, insurance principles, risk management, and regulatory compliance.",27
+Financial Risk Management Certification,"Professional program focusing on credit risk, market risk, operational risk assessment, and financial risk mitigation strategies.",28
+Investment Banking Certification,"Specialized training in mergers and acquisitions, capital markets, securities trading, financial modeling, and investment analysis.",29
+Bachelor of Banking and Finance,"Undergraduate program combining banking operations, financial markets, monetary policy, and international finance concepts.",30
+Bachelor of Technology - Mechanical Engineering,"Comprehensive program covering thermodynamics, fluid mechanics, machine design, manufacturing processes, and materials science with practical applications.",31
+Bachelor of Technology - Electrical Engineering,"Undergraduate program focusing on electrical circuits, power systems, electronics, control systems, and electromagnetic field theory.",32
+Bachelor of Technology - Industrial Engineering,"Specialized program combining engineering principles with management concepts, covering operations research, quality control, and production planning.",33
+Bachelor of Technology - Chemical Engineering,"Engineering program focusing on chemical processes, thermodynamics, mass transfer, reaction engineering, and process design principles.",34
+Diploma in Mechanical Engineering,"Technical education program covering fundamental mechanical engineering concepts, workshop practices, and hands-on technical skills.",35
+Master of Technology - Manufacturing Engineering,"Advanced program specializing in modern manufacturing techniques, automation, robotics, and advanced materials processing.",36
+Six Sigma Certification,"Quality management methodology training focusing on process improvement, statistical analysis, and defect reduction techniques.",37
+Lean Manufacturing Certification,"Professional training in waste elimination, continuous improvement, value stream mapping, and efficient production methodologies.",38
+Project Management Professional (PMP),"Global certification in project management covering project planning, execution, monitoring, and closure methodologies.",39
+AutoCAD Certification,"Professional training in computer-aided design software for creating technical drawings, blueprints, and engineering designs.",40
+Bachelor of Education (B.Ed),"Professional degree for aspiring teachers covering educational psychology, teaching methodologies, curriculum development, and classroom management techniques.",41
+Master of Education (M.Ed),"Advanced program in education focusing on educational leadership, research methods, policy analysis, and specialized teaching strategies.",42
+Bachelor of Arts in Education,Undergraduate program combining liberal arts education with foundational teaching skills and educational theory.,43
+Diploma in Elementary Education (D.El.Ed),"Professional certification for primary school teachers covering child psychology, pedagogical methods, and elementary education principles.",44
+Master of Arts in Educational Psychology,"Specialized program focusing on learning processes, cognitive development, educational assessment, and psychological aspects of education.",45
+Certificate in Training and Development,"Professional program covering adult learning principles, training design, delivery methods, and organizational development strategies.",46
+PhD in Education,"Doctoral program for advanced research in education, policy analysis, educational innovation, and academic leadership preparation.",47
+Educational Technology Certification,"Professional training in digital learning tools, online course development, learning management systems, and educational software.",48
+Special Education Certification,"Specialized training for teaching students with disabilities, covering inclusive education, assistive technology, and individualized instruction.",49
+TESOL Certification,"Teaching English to Speakers of Other Languages certification covering language acquisition, ESL methodologies, and cross-cultural communication.",50
+Bachelor of Science in Agriculture,"Comprehensive program covering crop production, soil science, plant breeding, agricultural economics, and sustainable farming practices.",51
+Bachelor of Technology in Food Technology,"Engineering program focusing on food processing, preservation, packaging, quality control, and food safety management systems.",52
+Bachelor of Technology in Agricultural Engineering,"Engineering degree combining mechanical, civil, and electrical engineering principles with agricultural applications and farm mechanization.",53
+Master of Science in Agronomy,"Advanced program specializing in crop science, plant physiology, soil-plant relationships, and sustainable crop production systems.",54
+Master of Business Administration in Agribusiness,"Management program focusing on agricultural marketing, supply chain, rural finance, and agribusiness management strategies.",55
+Bachelor of Veterinary Science,"Professional degree covering animal health, veterinary medicine, livestock management, and animal husbandry practices.",56
+Diploma in Agriculture,"Technical program providing practical knowledge in farming techniques, crop management, and agricultural technologies.",57
+Post Graduate Diploma in Food Science,"Specialized program covering food chemistry, microbiology, nutrition, and food processing technologies.",58
+Master of Science in Horticulture,"Advanced studies in fruit and vegetable production, ornamental horticulture, and landscape management techniques.",59
+Certificate in Organic Farming,"Professional training in organic agriculture methods, certification processes, and sustainable farming practices.",60
+Bachelor of Arts in Political Science,"Undergraduate program covering political theory, public administration, international relations, and governance systems for civil services preparation.",61
+Master of Public Administration,"Graduate program focusing on public policy, governance, administrative law, and management of public sector organizations.",62
+Bachelor of Laws (LLB),"Legal education covering constitutional law, criminal law, civil law, and legal procedures essential for judicial and administrative services.",63
+Bachelor of Arts in History,"Comprehensive study of historical events, cultural developments, and civilizations providing foundation for civil services examinations.",64
+Bachelor of Arts in Economics,"Economic theory, policy analysis, and development economics providing analytical skills for administrative and policy positions.",65
+Master of Social Work,"Professional program in social development, community organization, and welfare administration for social service positions.",66
+Bachelor of Science in Defence Studies,"Specialized program covering military science, strategic studies, and defence management for armed forces careers.",67
+Diploma in Police Administration,"Professional training in law enforcement, criminal justice, investigation techniques, and police management systems.",68
+Bachelor of Arts in Geography,"Study of physical and human geography, cartography, and spatial analysis relevant for administrative and survey positions.",69
+Master of Arts in Sociology,"Advanced study of social structures, community development, and social policy for welfare and administrative roles.",70
+Master of Business Administration - Retail Management,"Specialized MBA program covering retail operations, merchandising, consumer behavior, supply chain management, and digital commerce strategies.",71
+Bachelor of Business Administration - Marketing,"Undergraduate program focusing on marketing principles, consumer psychology, brand management, and sales strategies for retail industry.",72
+Digital Marketing Certification,"Professional program covering SEO, SEM, social media marketing, content marketing, and analytics for digital commerce success.",73
+Supply Chain Management Diploma,"Specialized program in logistics, inventory management, procurement, and distribution network optimization for retail operations.",74
+E-commerce Technology Course,"Technical program covering e-commerce platforms, web development, payment systems, and digital infrastructure for online retail.",75
+Visual Merchandising Certification,"Professional training in store design, product display techniques, consumer psychology, and retail space optimization.",76
+Customer Relationship Management Course,"Program focusing on customer service excellence, relationship building, complaint handling, and customer retention strategies.",77
+Retail Analytics Certification,"Data analysis program covering sales forecasting, customer segmentation, inventory optimization, and business intelligence for retail.",78
+Fashion Merchandising Diploma,"Specialized program in fashion retail, trend analysis, buying strategies, and brand management for apparel industry.",79
+Logistics and Distribution Management,"Comprehensive program covering warehouse management, transportation, inventory control, and supply chain optimization.",80
+Bachelor of Technology - Civil Engineering,"Comprehensive engineering program covering structural design, construction materials, surveying, geotechnical engineering, and project management.",81
+Bachelor of Architecture,"Professional degree combining design, technology, and art focusing on building design, urban planning, and sustainable architecture.",82
+Master of Technology - Structural Engineering,"Advanced program specializing in structural analysis, design of complex structures, earthquake engineering, and construction technology.",83
+Diploma in Civil Engineering,"Technical education covering construction techniques, building materials, surveying, and basic structural design principles.",84
+Real Estate Management Certification,"Professional program covering property valuation, real estate law, investment analysis, and property development processes.",85
+Bachelor of Interior Design,"Creative program focusing on space planning, color theory, furniture design, and creating functional interior environments.",86
+Construction Project Management Course,"Specialized training in project planning, resource management, cost control, and construction industry practices.",87
+Quantity Surveying Diploma,"Professional program covering cost estimation, contract management, project evaluation, and construction economics.",88
+Master of Urban and Regional Planning,"Graduate program in city planning, land use, transportation planning, and sustainable urban development.",89
+Green Building Certification,"Specialized training in sustainable construction, energy-efficient buildings, and environmental building practices.",90
+Bachelor of Journalism and Mass Communication,"Comprehensive program covering news reporting, media ethics, communication theory, broadcasting, and digital journalism techniques.",91
+Bachelor of Fine Arts,"Creative degree program focusing on visual arts, design principles, artistic techniques, and creative expression across various media.",92
+Film and Television Production Course,"Specialized program covering cinematography, direction, editing, sound design, and all aspects of film and television production.",93
+Digital Marketing Certification,"Professional training in online marketing strategies, social media marketing, content creation, and digital advertising techniques.",94
+Graphic Design Diploma,"Technical program covering design software, visual communication, typography, branding, and commercial design applications.",95
+Photography Certification,"Professional training in camera techniques, lighting, composition, photo editing, and commercial photography practices.",96
+Radio and Television Broadcasting,"Program covering broadcasting techniques, voice training, program production, and media technology for radio and television.",97
+Creative Writing Course,"Training in various writing forms including fiction, non-fiction, screenwriting, and content creation for different media platforms.",98
+Animation and Multimedia,"Technical program covering 2D/3D animation, visual effects, multimedia production, and digital content creation.",99
+Public Relations Certification,"Professional program in communication strategies, media relations, crisis management, and brand reputation management.",100
+Mathematics,"Fundamental subject covering arithmetic, algebra, geometry, trigonometry, calculus, and statistical concepts from elementary to advanced levels.",101
+Physics,"Science subject exploring mechanics, thermodynamics, electromagnetism, optics, and modern physics principles with practical applications.",102
+Chemistry,"Scientific study of matter, chemical reactions, organic and inorganic compounds, and their applications in industry and daily life.",103
+Biology,"Life science covering plant and animal biology, human anatomy, genetics, ecology, and environmental science fundamentals.",104
+English Literature,"Language and literature study focusing on reading comprehension, writing skills, grammar, poetry, prose, and communication abilities.",105
+Hindi,"National language study covering grammar, literature, composition, and communication skills in Hindi for academic and practical use.",106
+Social Science,"Integrated subject covering history, geography, political science, and economics to understand society, culture, and governance.",107
+Computer Science,"Technology education covering programming concepts, computer applications, data structures, and digital literacy skills.",108
+Bachelor of Hotel Management,"Hospitality program covering hotel operations, food service management, tourism, event planning, and customer service excellence.",109
+Bachelor of Physical Education,"Sports and fitness program covering exercise science, sports psychology, coaching techniques, and physical fitness management.",110
+Bachelor of Arts in Psychology,"Behavioral science program covering human psychology, counseling techniques, research methods, and mental health principles.",111
+Master of Fine Arts,"Advanced creative program in visual arts, performing arts, creative writing, and artistic expression techniques.",112
+Chartered Financial Analyst (CFA),"International finance qualification covering investment analysis, portfolio management, and financial market expertise.",113
+Certified Public Accountant (CPA),"Professional accounting certification covering auditing, taxation, financial reporting, and business advisory services.",114
+Project Management Professional (PMP),"Global project management certification covering project planning, execution, monitoring, and closure methodologies.",115
+Human Resource Management Diploma,"Professional program covering recruitment, training, performance management, and organizational behavior principles.",116
+Foreign Language Certification,"Language learning programs in German, French, Spanish, Japanese, and other international languages for global communication.",117
+Environmental Science,"Interdisciplinary program covering ecology, environmental conservation, pollution control, and sustainable development practices.",118
+Biotechnology,"Advanced program combining biology and technology for applications in medicine, agriculture, and industrial processes.",119
+Petroleum Engineering,"Specialized engineering program covering oil and gas exploration, drilling techniques, and energy resource management.",120

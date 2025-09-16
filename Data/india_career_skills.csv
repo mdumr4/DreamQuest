@@ -1,0 +1,123 @@
+name,description,skill_id
+Python Programming,"High-level programming language used for web development, data analysis, artificial intelligence, automation, and scientific computing applications.",1
+Java Programming,"Object-oriented programming language widely used for enterprise applications, Android development, and large-scale software systems.",2
+JavaScript,"Dynamic programming language essential for web development, enabling interactive web pages and modern frontend frameworks.",3
+React.js,"JavaScript library for building user interfaces, particularly single-page applications with component-based architecture and virtual DOM.",4
+Node.js,"JavaScript runtime environment for server-side development, enabling full-stack JavaScript applications and real-time web services.",5
+SQL,"Structured Query Language for managing relational databases, performing data queries, updates, and database administration tasks.",6
+Machine Learning,Subset of artificial intelligence focusing on algorithms that learn from data to make predictions and automated decisions.,7
+Deep Learning,Advanced machine learning technique using neural networks with multiple layers to solve complex pattern recognition problems.,8
+Cloud Computing,"Technology enabling on-demand access to computing resources, storage, and services over the internet infrastructure.",9
+Docker,"Containerization platform that enables packaging applications with dependencies into lightweight, portable containers for deployment.",10
+Kubernetes,"Container orchestration platform for automating deployment, scaling, and management of containerized applications in clusters.",11
+Git,Distributed version control system for tracking changes in source code and coordinating work among multiple developers.,12
+Patient Care,"Comprehensive skill involving direct patient interaction, assessment, treatment, and monitoring to ensure optimal health outcomes and comfort.",13
+Medical Diagnosis,"Systematic process of identifying diseases and conditions through patient examination, medical history, and diagnostic tests interpretation.",14
+Pharmacology,"Knowledge of drug mechanisms, interactions, side effects, and therapeutic applications for safe and effective medication management.",15
+Clinical Research,"Methodology for conducting medical studies, analyzing health data, and evaluating treatment efficacy through scientific research protocols.",16
+Medical Equipment Operation,"Technical proficiency in operating, maintaining, and troubleshooting various medical devices and diagnostic equipment.",17
+Infection Control,Practices and protocols to prevent and control the spread of infectious diseases in healthcare settings and communities.,18
+Medical Documentation,"Accurate recording and maintenance of patient medical records, treatment plans, and healthcare information systems.",19
+Emergency Response,"Immediate medical intervention skills for critical situations including CPR, first aid, and trauma management procedures.",20
+Laboratory Analysis,"Technical skills for conducting medical tests, analyzing biological samples, and interpreting laboratory results for diagnosis.",21
+Healthcare Ethics,"Understanding of moral principles, patient rights, confidentiality, and professional conduct standards in healthcare practice.",22
+Financial Analysis,"Ability to evaluate financial statements, assess investment opportunities, and analyze market trends to make informed financial decisions.",23
+Risk Assessment,"Systematic evaluation of potential financial losses, credit risks, and market uncertainties to minimize organizational exposure.",24
+Accounting Principles,"Knowledge of financial accounting standards, bookkeeping practices, and financial reporting requirements for accurate record-keeping.",25
+Regulatory Compliance,"Understanding of banking laws, financial regulations, and compliance requirements to ensure adherence to legal standards.",26
+Investment Management,"Skills in portfolio construction, asset allocation, investment research, and performance evaluation for optimal returns.",27
+Credit Evaluation,"Assessment of borrower creditworthiness, loan structuring, and credit risk analysis for lending decisions.",28
+Financial Modeling,"Creation of mathematical models to analyze financial performance, forecast outcomes, and support strategic decision-making.",29
+Treasury Operations,"Management of cash flows, liquidity planning, foreign exchange, and financial instrument trading for organizational needs.",30
+Customer Relationship Management,"Building and maintaining client relationships, understanding customer needs, and providing appropriate financial solutions.",31
+Taxation Knowledge,"Understanding of income tax laws, GST regulations, and tax planning strategies for individuals and businesses.",32
+CAD/CAM,"Computer-aided design and manufacturing skills for creating technical drawings, 3D models, and automated manufacturing processes.",33
+Quality Control,"Systematic processes for monitoring product quality, implementing testing procedures, and ensuring compliance with standards.",34
+Lean Manufacturing,"Methodology for eliminating waste, improving efficiency, and optimizing production processes through continuous improvement.",35
+Project Management,"Planning, organizing, and managing resources to successfully complete projects within scope, time, and budget constraints.",36
+Process Optimization,"Analytical approach to improve manufacturing processes, reduce costs, and enhance productivity through systematic improvements.",37
+Technical Drawing,"Skill in creating accurate engineering drawings, blueprints, and technical specifications for manufacturing and construction.",38
+Equipment Maintenance,Preventive and corrective maintenance practices to ensure optimal equipment performance and minimize production downtime.,39
+Safety Management,"Implementation of workplace safety protocols, risk assessment, and compliance with occupational health and safety standards.",40
+Supply Chain Management,"Coordination of procurement, inventory, logistics, and vendor relationships to optimize supply chain efficiency.",41
+Statistical Analysis,"Application of statistical methods for quality control, process improvement, and data-driven decision making in manufacturing.",42
+Curriculum Development,"Design and creation of educational programs, learning objectives, assessment strategies, and instructional materials aligned with standards.",43
+Classroom Management,"Effective strategies for maintaining order, engaging students, and creating positive learning environments that promote academic success.",44
+Educational Assessment,"Design and implementation of evaluation methods to measure student learning, progress, and achievement of educational objectives.",45
+Instructional Design,"Systematic approach to creating educational experiences and materials that make learning effective, engaging, and efficient.",46
+Learning Management Systems,"Proficiency in digital platforms for course delivery, student tracking, content management, and online learning facilitation.",47
+Educational Psychology,"Understanding of learning processes, cognitive development, motivation, and psychological factors affecting education.",48
+Training Delivery,"Skills in presenting information effectively, facilitating group learning, and engaging adult learners in professional development.",49
+Academic Research,"Methodology for conducting educational research, analyzing data, and contributing to scholarly knowledge in education.",50
+Student Counseling,"Guidance and support skills for helping students with academic, personal, and career-related challenges and decisions.",51
+Educational Technology,"Integration of digital tools, online platforms, and technology solutions to enhance teaching and learning experiences.",52
+Crop Management,"Knowledge of crop cultivation techniques, growth cycles, harvesting methods, and post-harvest handling for optimal yield.",53
+Soil Analysis,"Testing and evaluation of soil properties, nutrient content, pH levels, and recommendations for soil improvement.",54
+Food Safety,"Implementation of HACCP principles, food safety regulations, and quality control measures in food processing operations.",55
+Agricultural Machinery,"Operation and maintenance of farming equipment, tractors, harvesters, and modern agricultural technology systems.",56
+Irrigation Management,"Design and operation of irrigation systems, water conservation techniques, and efficient water resource management.",57
+Plant Breeding,"Development of improved crop varieties through selective breeding, genetic techniques, and biotechnology applications.",58
+Food Processing,"Techniques for transforming raw agricultural products into processed foods, including preservation, packaging, and distribution.",59
+Agricultural Marketing,"Understanding of market dynamics, pricing strategies, supply chain management, and agricultural commodity trading.",60
+Pest Management,"Integrated approach to controlling agricultural pests through biological, chemical, and cultural methods.",61
+Sustainable Agriculture,"Environmentally friendly farming practices, organic methods, and sustainable resource management techniques.",62
+Public Administration,"Management of government operations, policy implementation, and coordination of public services for efficient governance delivery.",63
+Policy Analysis,"Evaluation and development of government policies, understanding their impact, and recommending improvements for effective governance.",64
+Constitutional Knowledge,"Understanding of Indian Constitution, fundamental rights, legal procedures, and constitutional provisions for administrative roles.",65
+Leadership,"Ability to lead teams, make decisions, inspire others, and drive organizational change in government and public sector contexts.",66
+Communication Skills,"Effective verbal and written communication for public speaking, report writing, and stakeholder engagement in government roles.",67
+Analytical Thinking,"Critical analysis of complex problems, data interpretation, and logical reasoning for evidence-based decision making.",68
+Ethical Conduct,"Adherence to moral principles, integrity, and transparency in public service maintaining trust in government institutions.",69
+Conflict Resolution,"Mediation and negotiation skills for resolving disputes, managing stakeholder conflicts, and maintaining social harmony.",70
+Project Management,"Planning and execution of government schemes, programs, and initiatives ensuring timely delivery and resource optimization.",71
+Digital Governance,"Implementation of e-governance initiatives, digital platforms, and technology solutions for efficient public service delivery.",72
+Customer Service,"Ability to interact effectively with customers, resolve issues, provide support, and maintain positive customer relationships.",73
+Sales Techniques,"Methods for identifying customer needs, presenting products effectively, handling objections, and closing sales successfully.",74
+Inventory Management,"System for tracking stock levels, forecasting demand, managing orders, and optimizing inventory turnover rates.",75
+Digital Marketing,"Online marketing strategies including SEO, social media, email marketing, and paid advertising for customer acquisition.",76
+E-commerce Platforms,"Proficiency in online selling platforms, website management, order processing, and digital storefront optimization.",77
+Data Analysis,"Interpretation of sales data, customer analytics, performance metrics, and market trends for business insights.",78
+Visual Merchandising,"Art of product presentation, store layout design, and creating attractive displays to enhance customer experience.",79
+Supply Chain Coordination,"Management of vendor relationships, logistics coordination, and ensuring smooth product flow from suppliers to customers.",80
+Brand Management,"Development and maintenance of brand identity, positioning, and customer perception across all touchpoints.",81
+Market Research,"Gathering and analyzing market information, competitor analysis, and consumer insights for strategic decision-making.",82
+Structural Design,"Engineering capability to design safe and efficient structures using knowledge of materials, loads, and construction methods.",83
+Project Planning,"Ability to develop comprehensive project schedules, allocate resources, and coordinate activities for successful project completion.",84
+Cost Estimation,"Skill in calculating project costs, preparing budgets, and managing financial aspects of construction and development projects.",85
+AutoCAD,"Computer-aided design software proficiency for creating technical drawings, blueprints, and construction documentation.",86
+Site Supervision,"Management of construction site activities, worker coordination, quality control, and ensuring safety compliance.",87
+Building Codes,"Knowledge of construction regulations, safety standards, and legal requirements for building design and construction.",88
+Property Valuation,"Assessment of property values using market analysis, comparable sales, and professional valuation methodologies.",89
+Contract Management,"Negotiation, preparation, and administration of construction contracts, ensuring compliance and managing relationships.",90
+Construction Materials,"Understanding of building materials properties, selection criteria, and appropriate usage in different construction applications.",91
+Safety Management,"Implementation of workplace safety protocols, hazard identification, and compliance with occupational health standards.",92
+Creative Writing,"Ability to produce engaging written content across various formats including articles, scripts, stories, and marketing copy.",93
+Video Production,"Technical skills in filming, editing, sound recording, and post-production work for creating professional video content.",94
+Adobe Creative Suite,"Proficiency in professional design and editing software including Photoshop, Illustrator, Premiere Pro, and After Effects.",95
+Social Media Marketing,Strategy development and execution for brand promotion across various social media platforms and online communities.,96
+Photography,"Technical and artistic skills in capturing professional images, understanding lighting, composition, and photo editing.",97
+Content Strategy,Planning and development of content marketing strategies aligned with brand objectives and audience engagement.,98
+Broadcasting,"Communication skills for radio, television, and digital media presentation including voice training and audience engagement.",99
+Graphic Design,"Visual design skills for creating logos, advertisements, layouts, and branding materials using design principles.",100
+Storytelling,Ability to create compelling narratives across different media formats that engage and connect with audiences.,101
+Media Production,"Comprehensive skills in planning, producing, and managing media projects from concept to final delivery.",102
+Microsoft Excel,"Spreadsheet software proficiency for data analysis, financial modeling, reporting, and business calculations with advanced functions.",103
+PowerPoint,"Presentation software skills for creating professional presentations, visual communication, and effective information delivery.",104
+Tableau,"Data visualization tool for creating interactive dashboards, charts, and reports to analyze business intelligence data.",105
+SAP,"Enterprise resource planning software knowledge for managing business operations, finance, and organizational processes.",106
+Salesforce,"Customer relationship management platform skills for sales automation, customer service, and business process management.",107
+Strategic Planning,"Development of long-term business strategies, goal setting, market analysis, and organizational direction planning.",108
+Business Analysis,"Systematic examination of business processes, requirements gathering, and solution development for organizational improvement.",109
+Negotiation,"Skills in reaching agreements, resolving conflicts, and achieving mutually beneficial outcomes in business and personal contexts.",110
+Team Management,"Leadership abilities for coordinating teams, delegating tasks, motivating employees, and achieving collective objectives.",111
+Time Management,"Efficient organization of tasks, prioritization of activities, and productive use of time to achieve goals.",112
+Legal Research,"Investigation of legal precedents, case law analysis, and research methodologies for legal practice and compliance.",113
+Medical Coding,Healthcare skill for assigning codes to medical diagnoses and procedures for billing and record-keeping purposes.,114
+Foreign Exchange Trading,"Financial skill for currency trading, market analysis, and international financial market operations.",115
+Environmental Impact Assessment,Evaluation of environmental consequences of development projects and implementation of mitigation measures.,116
+Food Safety Standards,"Knowledge of HACCP, FDA regulations, and quality control measures for safe food production and handling.",117
+Critical Thinking,"Analytical reasoning, problem-solving, logical evaluation, and objective decision-making in complex situations.",118
+Emotional Intelligence,"Understanding and managing emotions, empathy, social awareness, and relationship management skills.",119
+Adaptability,"Flexibility in changing environments, learning new skills, and adjusting to evolving circumstances effectively.",120
+Cross-Cultural Communication,"Ability to communicate effectively across different cultures, languages, and diverse social contexts.",121
+Public Speaking,"Confident verbal communication, presentation skills, and ability to address audiences effectively.",122

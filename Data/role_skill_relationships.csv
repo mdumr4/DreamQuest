@@ -1,0 +1,174 @@
+role,skill,relationship_type
+Software Engineer,Python Programming,REQUIRES
+Software Engineer,Java Programming,REQUIRES
+Software Engineer,JavaScript,REQUIRES
+Software Engineer,Git,REQUIRES
+Software Engineer,SQL,REQUIRES
+Data Scientist,Python Programming,REQUIRES
+Data Scientist,Machine Learning,REQUIRES
+Data Scientist,Statistical Analysis,REQUIRES
+Data Scientist,SQL,REQUIRES
+Data Scientist,Data Analysis,REQUIRES
+AI/ML Engineer,Machine Learning,REQUIRES
+AI/ML Engineer,Deep Learning,REQUIRES
+AI/ML Engineer,Python Programming,REQUIRES
+AI/ML Engineer,Statistical Analysis,REQUIRES
+Cloud Architect,Cloud Computing,REQUIRES
+Cloud Architect,Docker,REQUIRES
+Cloud Architect,Kubernetes,REQUIRES
+Cloud Architect,Python Programming,REQUIRES
+Cybersecurity Specialist,Network Security,REQUIRES
+Cybersecurity Specialist,Risk Assessment,REQUIRES
+Cybersecurity Specialist,Ethical Conduct,REQUIRES
+DevOps Engineer,Docker,REQUIRES
+DevOps Engineer,Kubernetes,REQUIRES
+DevOps Engineer,Git,REQUIRES
+DevOps Engineer,Cloud Computing,REQUIRES
+Full Stack Developer,JavaScript,REQUIRES
+Full Stack Developer,React.js,REQUIRES
+Full Stack Developer,Node.js,REQUIRES
+Full Stack Developer,SQL,REQUIRES
+Full Stack Developer,Git,REQUIRES
+Mobile App Developer,Java Programming,REQUIRES
+Mobile App Developer,JavaScript,REQUIRES
+Mobile App Developer,React.js,REQUIRES
+UI/UX Designer,Graphic Design,REQUIRES
+UI/UX Designer,Creative Writing,REQUIRES
+UI/UX Designer,Adobe Creative Suite,REQUIRES
+Database Administrator,SQL,REQUIRES
+Database Administrator,Data Analysis,REQUIRES
+Database Administrator,System Administration,REQUIRES
+Doctor,Medical Diagnosis,REQUIRES
+Doctor,Patient Care,REQUIRES
+Doctor,Medical Documentation,REQUIRES
+Doctor,Healthcare Ethics,REQUIRES
+Surgeon,Medical Diagnosis,REQUIRES
+Surgeon,Patient Care,REQUIRES
+Surgeon,Emergency Response,REQUIRES
+Surgeon,Healthcare Ethics,REQUIRES
+Pharmacist,Pharmacology,REQUIRES
+Pharmacist,Patient Care,REQUIRES
+Pharmacist,Medical Documentation,REQUIRES
+Nurse,Patient Care,REQUIRES
+Nurse,Medical Equipment Operation,REQUIRES
+Nurse,Emergency Response,REQUIRES
+Nurse,Healthcare Ethics,REQUIRES
+Medical Laboratory Technician,Laboratory Analysis,REQUIRES
+Medical Laboratory Technician,Medical Equipment Operation,REQUIRES
+Medical Laboratory Technician,Medical Documentation,REQUIRES
+Physiotherapist,Patient Care,REQUIRES
+Physiotherapist,Medical Equipment Operation,REQUIRES
+Physiotherapist,Healthcare Ethics,REQUIRES
+Clinical Research Associate,Clinical Research,REQUIRES
+Clinical Research Associate,Medical Documentation,REQUIRES
+Clinical Research Associate,Data Analysis,REQUIRES
+Medical Representative,Communication Skills,REQUIRES
+Medical Representative,Customer Service,REQUIRES
+Medical Representative,Sales Techniques,REQUIRES
+Hospital Administrator,Project Management,REQUIRES
+Hospital Administrator,Leadership,REQUIRES
+Hospital Administrator,Healthcare Ethics,REQUIRES
+Biomedical Engineer,Medical Equipment Operation,REQUIRES
+Biomedical Engineer,Technical Analysis,REQUIRES
+Biomedical Engineer,Project Management,REQUIRES
+Bank Manager,Financial Analysis,REQUIRES
+Bank Manager,Customer Relationship Management,REQUIRES
+Bank Manager,Leadership,REQUIRES
+Bank Manager,Risk Assessment,REQUIRES
+Investment Banker,Financial Analysis,REQUIRES
+Investment Banker,Investment Management,REQUIRES
+Investment Banker,Financial Modeling,REQUIRES
+Investment Banker,Negotiation,REQUIRES
+Financial Analyst,Financial Analysis,REQUIRES
+Financial Analyst,Investment Management,REQUIRES
+Financial Analyst,Data Analysis,REQUIRES
+Financial Analyst,Financial Modeling,REQUIRES
+Chartered Accountant,Accounting Principles,REQUIRES
+Chartered Accountant,Financial Analysis,REQUIRES
+Chartered Accountant,Taxation Knowledge,REQUIRES
+Chartered Accountant,Regulatory Compliance,REQUIRES
+Credit Analyst,Credit Evaluation,REQUIRES
+Credit Analyst,Financial Analysis,REQUIRES
+Credit Analyst,Risk Assessment,REQUIRES
+Risk Manager,Risk Assessment,REQUIRES
+Risk Manager,Financial Analysis,REQUIRES
+Risk Manager,Regulatory Compliance,REQUIRES
+Loan Officer,Credit Evaluation,REQUIRES
+Loan Officer,Customer Relationship Management,REQUIRES
+Loan Officer,Financial Analysis,REQUIRES
+Treasury Manager,Treasury Operations,REQUIRES
+Treasury Manager,Financial Analysis,REQUIRES
+Treasury Manager,Investment Management,REQUIRES
+Compliance Officer,Regulatory Compliance,REQUIRES
+Compliance Officer,Legal Research,REQUIRES
+Compliance Officer,Risk Assessment,REQUIRES
+Insurance Agent,Customer Service,REQUIRES
+Insurance Agent,Sales Techniques,REQUIRES
+Insurance Agent,Communication Skills,REQUIRES
+Mechanical Engineer,CAD/CAM,REQUIRES
+Mechanical Engineer,Technical Drawing,REQUIRES
+Mechanical Engineer,Project Management,REQUIRES
+Mechanical Engineer,Equipment Maintenance,REQUIRES
+Production Manager,Project Management,REQUIRES
+Production Manager,Quality Control,REQUIRES
+Production Manager,Team Management,REQUIRES
+Production Manager,Process Optimization,REQUIRES
+Quality Control Engineer,Quality Control,REQUIRES
+Quality Control Engineer,Statistical Analysis,REQUIRES
+Quality Control Engineer,Technical Analysis,REQUIRES
+Industrial Engineer,Process Optimization,REQUIRES
+Industrial Engineer,Lean Manufacturing,REQUIRES
+Industrial Engineer,Statistical Analysis,REQUIRES
+Industrial Engineer,Project Management,REQUIRES
+Electrical Engineer,Technical Analysis,REQUIRES
+Electrical Engineer,Equipment Maintenance,REQUIRES
+Electrical Engineer,Safety Management,REQUIRES
+Plant Manager,Project Management,REQUIRES
+Plant Manager,Team Management,REQUIRES
+Plant Manager,Strategic Planning,REQUIRES
+Plant Manager,Safety Management,REQUIRES
+Maintenance Engineer,Equipment Maintenance,REQUIRES
+Maintenance Engineer,Technical Analysis,REQUIRES
+Maintenance Engineer,Safety Management,REQUIRES
+Design Engineer,CAD/CAM,REQUIRES
+Design Engineer,Technical Drawing,REQUIRES
+Design Engineer,Creative Design,REQUIRES
+Safety Officer,Safety Management,REQUIRES
+Safety Officer,Risk Assessment,REQUIRES
+Safety Officer,Regulatory Compliance,REQUIRES
+Supply Chain Manager,Supply Chain Management,REQUIRES
+Supply Chain Manager,Project Management,REQUIRES
+Supply Chain Manager,Negotiation,REQUIRES
+Teacher,Classroom Management,REQUIRES
+Teacher,Curriculum Development,REQUIRES
+Teacher,Communication Skills,REQUIRES
+Teacher,Educational Assessment,REQUIRES
+Professor,Academic Research,REQUIRES
+Professor,Curriculum Development,REQUIRES
+Professor,Public Speaking,REQUIRES
+Professor,Critical Thinking,REQUIRES
+Principal,Leadership,REQUIRES
+Principal,Team Management,REQUIRES
+Principal,Strategic Planning,REQUIRES
+Principal,Educational Administration,REQUIRES
+Training Manager,Training Delivery,REQUIRES
+Training Manager,Curriculum Development,REQUIRES
+Training Manager,Team Management,REQUIRES
+Curriculum Developer,Curriculum Development,REQUIRES
+Curriculum Developer,Instructional Design,REQUIRES
+Curriculum Developer,Educational Psychology,REQUIRES
+Educational Counselor,Student Counseling,REQUIRES
+Educational Counselor,Communication Skills,REQUIRES
+Educational Counselor,Emotional Intelligence,REQUIRES
+Instructional Designer,Instructional Design,REQUIRES
+Instructional Designer,Educational Technology,REQUIRES
+Instructional Designer,Creative Design,REQUIRES
+Academic Administrator,Project Management,REQUIRES
+Academic Administrator,Leadership,REQUIRES
+Academic Administrator,Regulatory Compliance,REQUIRES
+Research Scholar,Academic Research,REQUIRES
+Research Scholar,Critical Thinking,REQUIRES
+Research Scholar,Data Analysis,REQUIRES
+Online Tutor,Educational Technology,REQUIRES
+Online Tutor,Communication Skills,REQUIRES
+Online Tutor,Adaptability,REQUIRES
